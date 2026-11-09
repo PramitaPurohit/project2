@@ -1,4 +1,4 @@
 # New Project
 
 This project was created from local system
-Created by Pramit.
+Created by Pramita Purohit.
